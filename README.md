@@ -33,6 +33,8 @@ To get started with the project, follow these steps:
 
 4. Experiment with different hyperparameters, architectures, or techniques to improve the performance of the model.
 
+5. load the model checkpoint and test the model on the test dataset.
+
 ## Resources
 
 - The [MNIST database](http://yann.lecun.com/exdb/mnist/) of handwritten digits.
