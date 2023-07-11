@@ -43,7 +43,3 @@ To get started with the project, follow these steps:
 ## Acknowledgments
 
 Special thanks to the team at UDACITY & AWS for providing the opportunity to work on this project.
-
----
-
-Feel free to customize the README file according to your specific needs and add any additional sections or information that you think would be relevant.
